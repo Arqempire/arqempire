@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 4th-year college student<br>💻 Interested in Web Design & UI/UX Development<br>🤝 Open to collaborating on web and UI/UX projects<br>🌱 Constantly learning new languages, tools, and technologies
+🎓 4th-year college student<br>💻 Interested in Web Design & UI/UX Development<br>Currently learning AI/Ml <br> 🤝 Open to collaborating on web and UI/UX projects<br>🌱 Constantly learning new languages, tools, and technologies
 
 
 ## 🌐 Socials:
